@@ -1,3 +1,7 @@
 chicken
 eggs
 ice cream
+RRR
+24
+3
+
