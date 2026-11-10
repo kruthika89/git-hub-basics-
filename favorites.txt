@@ -1,0 +1,3 @@
+chicken
+eggs
+ice cream
